@@ -3,20 +3,13 @@
   <defs>
     <style>
       .cls-1 {
-        font-size: 12px;
-        letter-spacing: .75em;
-      }
-
-      .cls-1, .cls-2 {
-        font-family: SimHei, SimHei;
+        font-family: MicrosoftYaHei, 'Microsoft YaHei';
+        font-size: 32px;
+        letter-spacing: .01em;
       }
 
       .cls-1, .cls-2, .cls-3 {
-        fill: #e5e5e5;
-      }
-
-      .cls-2 {
-        font-size: 11px;
+        fill: #2c2e2f;
       }
 
       .cls-4 {
@@ -46,14 +39,17 @@
         fill: #bafc29;
       }
 
-      .cls-7 {
-        stroke: #ff7171;
+      .cls-2 {
+        font-size: 12px;
+        letter-spacing: .75em;
       }
 
-      .cls-3 {
-        font-family: MicrosoftYaHei, 'Microsoft YaHei';
-        font-size: 32px;
-        letter-spacing: .01em;
+      .cls-2, .cls-3 {
+        font-family: SimHei, SimHei;
+      }
+
+      .cls-7 {
+        stroke: #ff7171;
       }
 
       .cls-10 {
@@ -63,11 +59,15 @@
       .cls-11 {
         letter-spacing: -.11em;
       }
+
+      .cls-3 {
+        font-size: 11px;
+      }
     </style>
   </defs>
-  <text class="cls-3" transform="translate(45.37 21.84)"><tspan x="0" y="0">coooc</tspan></text>
-  <text class="cls-1" transform="translate(48.61 37.13)"><tspan x="0" y="0">服装网址导航</tspan></text>
-  <text class="cls-2" transform="translate(141.35 21.84)"><tspan class="cls-11" x="0" y="0">.</tspan><tspan class="cls-4" x="4.31" y="0">l</tspan><tspan class="cls-5" x="8.89" y="0">i</tspan><tspan class="cls-10" x="13.79" y="0">n</tspan><tspan class="cls-8" x="19.03" y="0">k</tspan></text>
+  <text class="cls-1" transform="translate(45.37 21.84)"><tspan x="0" y="0">coooc</tspan></text>
+  <text class="cls-2" transform="translate(48.61 37.13)"><tspan x="0" y="0">服装网址导航</tspan></text>
+  <text class="cls-3" transform="translate(141.35 21.84)"><tspan class="cls-11" x="0" y="0">.</tspan><tspan class="cls-4" x="4.31" y="0">l</tspan><tspan class="cls-5" x="8.89" y="0">i</tspan><tspan class="cls-10" x="13.79" y="0">n</tspan><tspan class="cls-8" x="19.03" y="0">k</tspan></text>
   <path class="cls-6" d="m6.68,27.39l10.24,6.14c1.5.95,3.38,1.05,4.97.25l13.44-7.72"/>
   <path class="cls-9" d="m6.84,16.08l11.11,7.13c.96.65,2.21.7,3.22.11l13.38-7.85c.71-.42,1.03-1.19.95-1.92-.06-.56-.36-1.09-.9-1.43l-13.24-7.31c-1.13-.71-2.55-.72-3.68-.02l-10.75,7.27c-1.48.9-1.53,3.06-.09,4.03Z"/>
   <path class="cls-7" d="m6.68,21.26l10.24,6.14c1.5.95,3.38,1.05,4.97.25l13.44-7.72"/>
